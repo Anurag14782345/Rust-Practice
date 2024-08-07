@@ -5,3 +5,4 @@ fn main() {
     let z= x+(y as i64) ; 
     println!("{}",z);
 }
+ 
